@@ -1,32 +1,30 @@
 <div align="center">
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="styles.svg" width='0' height='0' alt="css-in-readme">
 </div>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
-
-
-<div style="display: flex; align-items: space-between;">
-<p align="left">Welcome to my page! </br> I'm Anand Vyas, Frontend Web Developer from India.</p>
-<div id="badges" align="left">
+<div align='center'>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E3aGtjYzVmamhqcjV1aDY3MWg3NzF6em5yOGhiZ2VsNG9kYzRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="anand" width="200" height="200"/>
+  <div id="badges">
   <a href="https://www.linkedin.com/in/anandvyas1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
+  </div>
 </div>
 
-<div id="header" align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3E3aGtjYzVmamhqcjV1aDY3MWg3NzF6em5yOGhiZ2VsNG9kYzRmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" alt="anand" width="200" height="200"/>
-</div>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 
-</div>
+
+
+<div>
+<p align="left">Welcome to my page! </br> I'm Anand Vyas, Frontend Web Developer from India.</p>
+<div id="badges" align="left">
+
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
