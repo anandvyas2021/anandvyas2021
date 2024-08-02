@@ -20,7 +20,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 <div>
-<p align="left">Welcome to my page! </br> I'm Anand Vyas, Frontend Web Developer from India.</p>
+<p align="left">Welcome to my page! </br> I'm Anand Vyas, MERN stack Developer from India.</p>
 <div id="badges" align="left">
 
 ---
