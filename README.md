@@ -20,7 +20,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h2>
 <div>
-<p align="left">Welcome to my page! </br> I'm Anand Vyas, Frontend Developer with nearly 4 years of experience in React.js, React Native, and modern UI frameworks. Skilled at building scalable, intuitive applications from 0→1 to production. Passionate about clean architecture, great user experiences, and continuous learning in fullstack and AI-driven technologies. Thrive in startup environments, collaborating cross-functionally while mentoring peers and driving impactful product outcomes.</p>
+<p align="left">Welcome to my page! </br> I'm Anand Vyas, Frontend Developer with 4 years of experience building scalable web and mobile applications using React.js, React Native, and modern UI frameworks. Adept at translating product ideas into high-performance interfaces and passionate about clean architecture, reusable design systems, and continuous learning in full-stack and AI-driven technologies.</p>
 <div id="badges" align="left">
 
 ---
