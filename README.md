@@ -1,4 +1,3 @@
-
 <!-- Header with typing effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=%3E_Hello%2C+I'm+Anand+Vyas;%3E_Frontend+Engineer;%3E_React+%26+React+Native+Specialist;%3E_Building+Universal+UI+Architectures" alt="Typing SVG" />
@@ -46,11 +45,22 @@
 - 🛠️ Architecting **react-apps-ui** — A universal, Shadcn-inspired UI component CLI for Web and React Native.
 - ⚙️ Optimizing zero-dependency `StyleSheet` and `NativeWind` integrations.
 
-## 📊 Telemetry
+## 📊 Live Telemetry
+
+<div align="left">
+  <a href="https://www.npmjs.com/package/react-apps-ui">
+    <img src="https://img.shields.io/npm/dt/react-apps-ui?style=for-the-badge&logo=npm&color=CB3837" alt="NPM Downloads" />
+  </a>
+  <a href="https://www.npmjs.com/package/react-apps-ui">
+    <img src="https://img.shields.io/npm/v/react-apps-ui?style=for-the-badge&logo=npm&color=00FF99" alt="NPM Version" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=anandvyas2021&style=for-the-badge&color=593D88&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandvyas2021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandvyas2021&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandvyas2021&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
 </div>
 
 
